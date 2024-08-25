@@ -1,4 +1,4 @@
-# VRGameUserMotionAnalysis
+# VR Game User Experience Analysis
 
 This project involves the data pre-processing of Waddle VR gameplay data from the Open Game Data platform to prepare it for training a 1D Convolutional Neural Network (CNN) model. The goal is to predict whether a user will quit or continue based on their head rotations during gameplay.
 
