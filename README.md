@@ -2,6 +2,8 @@
 
 This project involves the data pre-processing of Waddle VR gameplay data from the Open Game Data platform to prepare it for training a 1D Convolutional Neural Network (CNN) model. The goal is to predict whether a user will quit or continue based on their head rotations during gameplay.
 
+The head rotations can indicate the user's movement patterns and the scenes and objects they are interacting with in the game.
+
 To know more about the game: (https://github.com/fielddaylab/Waddle)
 
 A 1D CNN model was chosen for its ability to work with sequences of data (in our case, sequences of rotation coordinates for each gameplay data entry).
